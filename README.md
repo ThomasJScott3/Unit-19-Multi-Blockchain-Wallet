@@ -14,15 +14,15 @@
 
 <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/Faucet1.PNG"></img?</p>
 
-<p>
+<br>
 
   First, I topped off my wallet with a bitcoin faucet provided by the instructor. As an added incentive to review my code, I am not linking it here.
 
-<p>
+<br>
   
 <img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/BTC_test.PNG"></img>
 
-<p>
+<br>
 
   Next, I moved funds from one account in my wallet to the other.
 
