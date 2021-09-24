@@ -60,7 +60,7 @@
 
 <br>
   
-  I executed the transaction in python and reviewed the results on both ends. Your output in python and MyCrypto should match.
+  I executed the transaction in python and reviewed the results on both ends. Your output in Python and MyCrypto should match.
 
 <p>
 
@@ -72,4 +72,4 @@
 
 <br>
   
-### End of Report
+<p align="center"><b>End of Report</b></p>
