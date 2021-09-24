@@ -16,7 +16,7 @@
 
 <p>
 
-  First, I top off your wallet with a bitcoin faucet provided by the instructor. As an added incentive to review my code, I am not linking it here.
+  First, I topped off my wallet with a bitcoin faucet provided by the instructor. As an added incentive to review my code, I am not linking it here.
 
 <p>
   
@@ -36,7 +36,7 @@
 
 <br>
 
-  First, I repurposed the ETH I mined for the last assignment to fund my empty ETH account for this assignment.
+  First, I repurposed the ETH I mined for the last assignment to fund my empty ETH account created for this assignment.
   
 <br>
 
@@ -68,7 +68,7 @@
   
 <p>
   
-  Save for the placement of the decimal place, the two numbers align.
+  Save for the placement of the decimal place, the two numbers align in Python and MyCrypto.
 
 <br>
   
