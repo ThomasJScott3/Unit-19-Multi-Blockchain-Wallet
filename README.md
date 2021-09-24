@@ -30,37 +30,37 @@ Summary & Comments:
 
 ### ETH Test
 
-<p>
+<br>
   
 <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto2.PNG"></img?</p>
 
-<p>
+<br>
 
   First, I repurposed the ETH I mined for the last assignment to fund my empty ETH account for this assignment.
   
-<p>
+<br>
 
 <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto2b.PNG"></img></p>
 
-<p>
+<br>
   
   Using web3 in my code, check to see whether your new account has received payment.
   
-<p>
+<br>
   
   <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto3.PNG"></img></p>
   
-<p>
+<br>
   
   Next, I teed up the account I emptied at the end of the last assignment to receive funds from the one I just created.
   
-<p>
+<br>
   
   <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto3b.PNG"></img></p>
 
-<p>
+<br/>
   
-  Execute the transaction in python and review on both ends. Your output in ython and MyCrypto should match.
+  I executed the transaction in python and reviewed the results on both ends. Your output in python and MyCrypto should match.
 
 <p>
 
