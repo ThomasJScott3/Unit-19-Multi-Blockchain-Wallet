@@ -8,9 +8,65 @@ Summary & Comments: The goal of this poject was to construct a cryptocurrency wa
 
 ### BTC Test
 
+<p>
 
+<p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/Faucet1.PNG"></img?</p>
+
+<p>
+
+  First, I top off your wallet with a bitcoin faucet provided by the instructor. As an added incentive to review my code, I am not linking it here.
+
+<p>
+  
+<img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/BTC_test.PNG"></img>
+
+<p>
+
+  Next, I moved funds from one account in my wallet to the other.
+
+<p>
 ### ETH Test
 
+<p>
+  
+<p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto2.PNG"></img?</p>
 
+<p>
 
-#### End of Report
+  First, I repurposed the ETH I mined for the last assignment to fund my empty ETH account for this assignment.
+  
+<p>
+
+<p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto2b.PNG"></img></p>
+
+<p>
+  
+  Using web3 in my code, check to see whether your new account has received payment.
+  
+<p>
+  
+  <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto3.PNG"></img></p>
+  
+<p>
+  
+  Next, I teed up the account I emptied at the end of the last assignment to receive funds from the one I just created.
+  
+<p>
+  
+  <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto3b.PNG"></img></p>
+
+<p>
+  
+  Execute the transaction in python and review on both ends. Your output in ython and MyCrypto should match.
+
+<p>
+
+  <p align="center"><img src="https://github.com/ThomasJScott3/Unit-19-Multi-Blockchain-Wallet/blob/main/images/MyCrypto4.PNG"></img></p>
+  
+<p>
+  
+  Save for the placement of the decimal place, the two numbers align.
+
+<p>
+  
+### End of Report
